@@ -1,6 +1,6 @@
 # TODO plan
 
-- [] auth
-- [] users
-- [] shitcode posts
-- [] comments
+- [ ] auth
+- [ ] users
+- [ ] shitcode posts
+- [ ] comments
