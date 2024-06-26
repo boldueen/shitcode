@@ -1,3 +1,3 @@
-# sheetcode
+# shitcode
 
-like stackoverflow but for bullsheet code
+like stackoverflow but for bullshit code
